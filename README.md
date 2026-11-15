@@ -7,6 +7,10 @@ Lance. Pierce armored shields, dash through enemy bullets to vaporize
 them, draft transformative Module Upgrades between waves, and shatter
 The Crimson Architect on wave 6.
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/LeviosaEXC/best-game-01-shatterlance/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/LeviosaEXC/best-game-01-shatterlance/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
 ## How to play
 
 Serve the game and open it in a desktop browser:
